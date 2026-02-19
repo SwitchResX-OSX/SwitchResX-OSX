@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/341403/m/switchresx-screenshot.png?v=1667891422" alt="SwitchResX screenshot"/>
+  <img src="https://howtoegghead.com/static/0713a6147e54640ec4ba2a9e80ba3e3c/4d836/open-switchresx.jpg" alt="SwitchResX screenshot"/>
 </p>
 
 ---
